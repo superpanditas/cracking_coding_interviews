@@ -1,2 +1,2 @@
-# cracking_coding_interviews
+# Cracking Coding Interviews
 Algorithms and Data Structures Course
